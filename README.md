@@ -1,6 +1,4 @@
 # M3
-Code for M^3 MIT Movement Map (1.00)
-
 Hello World!
 
 We are glad you stumbled upon the Github for M^3, the MIT Movement Map. M^3 culminates in a plotly map (https://plotly.com/~naylahcan/1/) that shows how many students are expected to be in each MIT academic building in real-time. Red dots centered at the coordinates for each academic building have their radii scaled by the student count; the bigger the red circle, the more students in that area.
